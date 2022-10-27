@@ -1,3 +1,4 @@
 .venvML
 *.xlsx
 *.pkl
+models/
